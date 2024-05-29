@@ -1,0 +1,19 @@
+name,gender,mobileNumber,guardianName,guardianMobileNumber,fathersName,mothersName,address,state,pinCode,hosteler,tenthPercentage,twelfthPercentage,diplomaCGPA,year,department,rollNo,totalPayableFee,payment,isActive,isGraduated,isDropout,isLateral
+Alice Johnson,female,1234567890,Bob Johnson,987654321,Charles Johnson,Diana Johnson,123 Main St,State1,123456,false,92,85,,2023,CSE,10600124001,180000,110000,true,false,false,true
+Bob Smith,male,2345678901,Mary Smith,1234509876,David Smith,Emily Smith,456 Elm St,State2,234567,false,88,82,,2023,EE,10600123002,320000,0,false,false,false,false
+Carol White,female,3456789012,Steve White,2345609871,Frank White,Grace White,789 Pine St,State3,345678,true,95,90,,2022,ECE,10600122003,240000,0,true,false,false,true
+David Brown,male,4567890123,Nancy Brown,3456709823,Harry Brown,Irene Brown,101 Maple St,State4,456789,true,85,,8.2,2021,CE,10600121004,320000,0,false,false,false,false
+Eve Davis,female,5678901234,John Davis,4567801234,Kenny Davis,Laura Davis,202 Oak St,State1,567890,false,89,87,,2024,CSE,10600124005,240000,0,true,false,false,false
+Frank Miller,male,6789012345,Linda Miller,5678901234,Michael Miller,Nina Miller,303 Birch St,State2,678901,true,90,83,,2023,EE,10600123006,240000,0,false,false,false,false
+Grace Wilson,female,7890123456,Paul Wilson,6789012345,Oscar Wilson,Patty Wilson,404 Cedar St,State3,789012,false,94,89,,2022,ECE,10600122007,320000,0,true,false,false,false
+Henry Moore,male,8901234567,Quincy Moore,7890123456,Ralph Moore,Sally Moore,505 Cherry St,State4,890123,true,87,80,,2021,CE,10600121008,400000,0,false,false,false,false
+Ivy Taylor,female,9012345678,Ron Taylor,8901234567,Sam Taylor,Tina Taylor,606 Walnut St,State1,901234,false,92,91,,2024,CSE,10600124009,320000,0,true,false,false,false
+Jack Anderson,male,1123456789,Susan Anderson,9012345678,Tom Anderson,Ursula Anderson,707 Willow St,State2,112345,false,86,84,,2023,EE,10600123010,240000,0,false,false,false,false
+Kate Harris,female,1234567890,Victor Harris,1123456789,William Harris,Xena Harris,808 Spruce St,State3,123456,true,95,88,,2022,ECE,10600122011,180000,0,true,false,false,true
+Leo Clark,male,2345678901,Wanda Clark,1234567890,Yancy Clark,Zoe Clark,909 Aspen St,State4,234567,false,89,82,,2021,CE,10600121012,240000,0,false,false,false,true
+Mia Lewis,female,3456789012,Andy Lewis,2345678901,Barry Lewis,Cathy Lewis,1010 Redwood St,State1,345678,true,91,90,,2024,CSE,10600124013,240000,0,true,false,false,false
+Noah Walker,male,4567890123,Daisy Walker,3456789012,Edward Walker,Fiona Walker,1111 Hickory St,State2,456789,false,88,81,,2023,EE,10600123014,320000,0,false,false,false,false
+Olivia Hall,female,5678901234,Gary Hall,4567890123,Hank Hall,Isabel Hall,1212 Alder St,State3,567890,true,93,85,,2022,ECE,10600122015,240000,0,true,false,false,false
+Paul Young,male,6789012345,Helen Young,5678901234,Jack Young,Karen Young,1313 Cedar St,State4,678901,false,87,80,,2021,CE,10600121016,120000,0,false,false,false,true
+Quinn King,female,7890123456,Leo King,6789012345,Martin King,Nora King,1414 Fir St,State1,789012,true,90,89,,2024,CSE,10600124017,160000,0,true,false,false,false
+Injamul M,male,9800877121,Nuh Baksh,9800877121,A. B.,N. M.,1313 Cedar St,West Bengal,742134,true,71,0,8.2,2020,CSE,10600120065,240000,0,true,false,false,false
